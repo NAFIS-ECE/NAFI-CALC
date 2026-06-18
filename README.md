@@ -1,2 +1,15 @@
-# NAFI-CALC
-A beginner-friendly calculator built using Python that performs basic arithmetic operations called NAFI-CALC. Ahh ,Developed as part of my Python learning journey toward Embedded Systems and IT careers.
+# Python Calculator - NAFI-CALC
+
+A simple calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Author
+MD Nafis
+B.E. Electronics and Communication Engineering (ECE)
+Rajalakshmi Institute of Technology, Chennai
+# 1st PROJECT !
